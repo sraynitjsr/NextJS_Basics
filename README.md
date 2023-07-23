@@ -1,2 +1,1 @@
-# NextJS_SpringBoot_App
-NextJS Spring Boot Application
+# NextJS and Spring Boot Full Stack Application
